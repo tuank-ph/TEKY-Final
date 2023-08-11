@@ -1,0 +1,2527 @@
+{
+
+  "realme-c30s": {
+    "name": "Realme C30s",
+    "brand": "realme",
+    "price-sub": "2690000",
+    "price": "2390000",
+    "discount": 11,
+    "battery": "5000",
+    "display": "6.5",
+    "ram": "3",
+    "storage": "64",
+    "rating": "4/5",
+    "rating-count": "14",
+    "category": "phone",
+    "colors": {
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/16/637989169500528282_realme-c30s-xanh-5.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/16/637989168061308977_realme-c30s-den-5.jpg"
+      }
+    }
+  },
+  "realme-c33": {
+    "name": "Realme C33",
+    "brand": "realme",
+    "price-sub": "3490000",
+    "price": "2490000",
+    "discount": 29,
+    "battery": "5000",
+    "display": "6.5",
+    "ram": "3",
+    "storage": "32",
+    "rating": "4/5",
+    "rating-count": "50",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/3/638004074070274770_realme-c33-den-5.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/3/638004075056297533_realme-c33-xanh-5.jpg"
+      }
+    }
+  },
+  "oppo-a16k": {
+    "name": "OPPO A16k",
+    "brand": "oppo",
+    "price-sub": "3290000",
+    "price": "2790000",
+    "discount": 15,
+    "battery": "4230",
+    "display": "6.52",
+    "ram": "3",
+    "storage": "32",
+    "rating": "5/5",
+    "rating-count": "275",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/10/637801040844385368_oppo-a16k-black-1.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/24/637733878453057229_oppo-a16k-xanh-1.jpg"
+      }
+    }
+  },
+  "vivo-y02s": {
+    "name": "Vivo Y02s",
+    "brand": "vivo",
+    "price-sub": "3490000",
+    "price": "2890000",
+    "discount": 17,
+    "battery": "5000",
+    "display": "6.51",
+    "ram": "3",
+    "storage": "32",
+    "rating": "5/5",
+    "rating-count": "151",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/7/22/637940794898167877_vivo-y02s-3gb-32gb-den-1.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/7/22/637940794898480222_vivo-y02s-3gb-32gb-xanh-1.jpg"
+      }
+    }
+  },
+  "oppo-a17": {
+    "name": "OPPO A17",
+    "brand": "oppo",
+    "price-sub": "3990000",
+    "price": "3690000",
+    "discount": 8,
+    "battery": "5000",
+    "display": "6.56",
+    "ram": "4",
+    "storage": "64",
+    "rating": "5/5",
+    "rating-count": "54",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/17/638016267842487404_oppo-a17-den-1.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/17/638016267842800026_oppo-a17-xanh-1.jpg"
+      }
+    }
+  },
+  "samsung-galaxy-a14-5g": {
+    "name": "Samsung Galaxy A14 5G",
+    "brand": "samsung",
+    "price-sub": "5190000",
+    "price": "4490000",
+    "discount": 13,
+    "battery": "5000",
+    "display": "6.6",
+    "ram": "4",
+    "storage": "128",
+    "rating": "4/5",
+    "rating-count": "16",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/5/23/638204364089195650_samsung-galaxy-a14-5g-den-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/5/23/638204365092734497_samsung-galaxy-a14-5g-trang-1.jpg"
+      },
+      "red": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/5/23/638204365093514450_samsung-galaxy-a14-5g-do-1.jpg"
+      }
+    }
+  },
+  "samsung-galaxy-a23-5g": {
+    "name": "Samsung Galaxy A23 5G",
+    "brand": "samsung",
+    "price-sub": "5990000",
+    "price": "4490000",
+    "discount": 25,
+    "battery": "5000",
+    "display": "6.6",
+    "ram": "4",
+    "storage": "128",
+    "rating": "5/5",
+    "rating-count": "25",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/19/638017839470367776_samsung-galaxy-a23-5g-den-2.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/19/638017838324659333_samsung-galaxy-a23-5g-xanh-3.jpg"
+      }
+    }
+  },
+  "xiaomi-redmi-note-11s": {
+    "name": "Xiaomi Redmi Note 11S",
+    "brand": "xiaomi",
+    "price-sub": "6690000",
+    "price": "6190000",
+    "discount": 7,
+    "battery": "5000",
+    "display": "6.43",
+    "ram": "8",
+    "storage": "128",
+    "rating": "5/5",
+    "rating-count": "195",
+    "category": "phone",
+    "colors": {
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/14/637804380953725497_xiaomi-redmi-note-11s-xanh-2.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/14/637804378927335338_xiaomi-redmi-note-11s-xam-2.jpg"
+      }
+    }
+  },
+  "realme-10": {
+    "name": "Realme 10",
+    "brand": "realme",
+    "price-sub": "7190000",
+    "price": "5690000",
+    "discount": 21,
+    "battery": "5000",
+    "display": "6.4",
+    "ram": "8",
+    "storage": "256",
+    "rating": "4/5",
+    "rating-count": "11",
+    "category": "phone",
+    "colors": {
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/4/20/638176081148261590_realme-10-trang-5.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/4/20/638176085192837385_realme-10-den-5.jpg"
+      }
+    }
+  },
+  "xiaomi-redmi-note-12s": {
+    "name": "Xiaomi Redmi Note 12S",
+    "brand": "xiaomi",
+    "price-sub": "6690000",
+    "price": "6190000",
+    "discount": 7,
+    "battery": "5000",
+    "display": "6.43",
+    "ram": "8",
+    "storage": "256",
+    "rating": "5/5",
+    "rating-count": "2",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/5/8/638191687592374315_xiaomi-redmi-note-12s-den-5.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/5/8/638191688762551577_xiaomi-redmi-note-12s-xanh-5.jpg"
+      },
+      "green": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/5/8/638191683020486195_xiaomi-redmi-note-12s-xanh-la-5.jpg"
+      }
+    }
+  },
+  "vivo-v25e": {
+    "name": "Vivo V25e",
+    "brand": "vivo",
+    "price-sub": "8490000",
+    "price": "6790000",
+    "discount": 20,
+    "battery": "4500",
+    "display": "6.44",
+    "ram": "8",
+    "storage": "128",
+    "rating": "5/5",
+    "rating-count": "107",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/14/637987647812778692_vivo-v25e-den-1.jpg"
+      },
+      "yellow": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/14/637987654398636993_vivo-v25e-vang-1.jpg"
+      }
+    }
+  },
+  "oppo-reno8-t-4g": {
+    "name": "OPPO Reno8 T 4G",
+    "brand": "oppo",
+    "price-sub": "8490000",
+    "price": "7990000",
+    "discount": 6,
+    "battery": "5000",
+    "display": "6.4",
+    "ram": "8",
+    "storage": "256",
+    "rating": "4/5",
+    "rating-count": "19",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/2/638109518679725316_oppo-reno8-t-4g-den-5.jpg"
+      },
+      "yellow": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/2/638109508116523500_oppo-reno8-t-4g-cam-4.jpg"
+      }
+    }
+  },
+  "vivo-v25-5g": {
+    "name": "Vivo V25 5G",
+    "brand": "vivo",
+    "price-sub": "10490000",
+    "price": "8490000",
+    "discount": 19,
+    "battery": "4500",
+    "display": "6.44",
+    "ram": "8",
+    "storage": "128",
+    "rating": "5/5",
+    "rating-count": "91",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/14/637987658871975174_vivo-v25e-den-1.jpg"
+      },
+      "yellow": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/14/637987661253728881_vivo-v25e-vang-1.jpg"
+      }
+    }
+  },
+  "xiaomi-redmi-note-12-pro-5g": {
+    "name": "Xiaomi Redmi Note 12 Pro 5G",
+    "brand": "xiaomi",
+    "price-sub": "9490000",
+    "price": "8790000",
+    "discount": 7,
+    "battery": "5000",
+    "display": "6.67",
+    "ram": "8",
+    "storage": "256",
+    "rating": "4/5",
+    "rating-count": "20",
+    "category": "phone",
+    "colors": {
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/22/638151007412242456_xiaomi-redmi-note-12-pro-trang-5.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/22/638151013110509349_xiaomi-redmi-note-12-pro-trang-xam-5.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/22/638151016870766321_xiaomi-redmi-note-12-pro-xanh-5.jpg"
+      }
+    }
+  },
+  "iphone-13": {
+    "name": "iPhone 13",
+    "brand": "apple",
+    "price-sub": "18990000",
+    "price": "16690000",
+    "discount": 12,
+    "battery": "3225",
+    "display": "6.1",
+    "ram": "4",
+    "storage": "128",
+    "rating": "5/5",
+    "rating-count": "786",
+    "category": "phone",
+    "colors": {
+      "pink": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864948054568276_iphone-13-hong-1.jpg"
+      },
+      "green": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864944636979062_iphone-13-xanhla-1.jpg"
+      },
+      "red": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864945997429464_iphone-13-do-1.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864950181732958_iphone-13-xanh-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864949258532597_iphone-13-trang-1.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864946617759009_iphone-13-den-1.jpg"
+      }
+    }
+  },
+  "samsung-galaxy-s23-5g": {
+    "name": "Samsung Galaxy S23 5G",
+    "brand": "samsung",
+    "price-sub": "24990000",
+    "price": "17490000",
+    "discount": 30,
+    "battery": "3900",
+    "display": "6.1",
+    "ram": "8",
+    "storage": "256",
+    "rating": "5/5",
+    "rating-count": "60",
+    "category": "phone",
+    "colors": {
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/1/638108906922989833_samsung-galaxy-s23-kem-1.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/1/638108910194703748_samsung-galaxy-s23-xanh-1.jpg"
+      },
+      "pink": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/1/638108911499888594_samsung-galaxy-s23-tim-1.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/1/638108908650838212_samsung-galaxy-s23-den-1.jpg"
+      }
+    }
+  },
+  "samsung-galaxy-s23-plus-5g": {
+    "name": "Samsung Galaxy S23 Plus 5G",
+    "brand": "samsung",
+    "price-sub": "26990000",
+    "price": "18990000",
+    "discount": 30,
+    "battery": "4700",
+    "display": "6.6",
+    "ram": "8",
+    "storage": "256",
+    "rating": "5/5",
+    "rating-count": "110",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/1/638108921261470112_samsung-galaxy-s23-plus-den-1.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/2/638108928864459862_samsung-galaxy-s23-plus-xanh-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/2/638108928863476807_samsung-galaxy-s23-plus-kem-1.jpg"
+      },
+      "pink": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/1/638108923652597387_samsung-galaxy-s23-plus-tim-1.jpg"
+      }
+    }
+  },
+  "iphone-14": {
+    "name": "iPhone 14",
+    "brand": "apple",
+    "price-sub": "21990000",
+    "price": "18990000",
+    "discount": 14,
+    "battery": "20 hours",
+    "display": "6.1",
+    "ram": "",
+    "storage": "128",
+    "rating": "5/5",
+    "rating-count": "192",
+    "category": "phone",
+    "colors": {
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054092490170033_ip-14-xanh-1.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054086797665958_ip-14-den-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054091427671235_ip-14-trang-1.jpg"
+      },
+      "red": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054088819837718_ip-14-do-1.jpg"
+      },
+      "pink": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054090260153672_ip-14-tim-1.jpg"
+      },
+      "yellow": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/7/638138235534641283_iphone-14-vang-1.jpg"
+      }
+    }
+  },
+  "iphone-14-plus": {
+    "name": "iPhone 14 Plus",
+    "brand": "apple",
+    "price-sub": "24990000",
+    "price": "21490000",
+    "discount": 14,
+    "battery": "26 hours",
+    "display": "6.7",
+    "ram": "",
+    "storage": "128",
+    "rating": "5/5",
+    "rating-count": "574",
+    "category": "phone",
+    "colors": {
+      "pink": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054168094224737_ip-14-plus-tim-1.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054163867313882_ip-14-plus-den-1.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054170881553427_ip-14-plus-xanh-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054169483299865_ip-14-plus-trang-1.jpg"
+      },
+      "yellow": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/7/638138235534661110_iphone-14-plus-vang-1.jpg"
+      },
+      "red": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054166106341023_ip-14-plus-do-1.jpg"
+      }
+    }
+  },
+  "iphone-14-pro": {
+    "name": "iPhone 14 Pro",
+    "brand": "apple",
+    "price-sub": "27990000",
+    "price": "24280000",
+    "discount": 13,
+    "battery": "23 hours",
+    "display": "6.1",
+    "ram": "",
+    "storage": "128",
+    "rating": "5/5",
+    "rating-count": "177",
+    "category": "phone",
+    "colors": {
+      "yellow": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054215482172772_ip-14-pro-vang-1.jpg"
+      },
+      "pink": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054213959247730_ip-14-pro-tim-1.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054212873983148_ip-14-pro-den-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054205618721510_ip-14-pro-bac-1.jpg"
+      }
+    }
+  },
+  "iphone-14-pro-max": {
+    "name": "iPhone 14 Pro Max",
+    "brand": "apple",
+    "price-sub": "29990000",
+    "price": "26380000",
+    "discount": 12,
+    "battery": "29 hours",
+    "display": "6.7",
+    "ram": "",
+    "storage": "128",
+    "rating": "5/5",
+    "rating-count": "746",
+    "category": "phone",
+    "colors": {
+      "pink": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054220350691584_ip-14-pro-max-tim-1.jpg"
+      },
+      "yellow": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054222139728415_ip-14-pro-max-vang-1.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054218956629637_ip-14-pro-max-den-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054217303176240_ip-14-pro-max-bac-1.jpg"
+      }
+    }
+  },
+  "xiaomi-redmi-a1": {
+    "name": "Xiaomi Redmi A1",
+    "brand": "xiaomi",
+    "price-sub": "2190000",
+    "price": "1690000",
+    "discount": 23,
+    "battery": "5000",
+    "display": "6.52",
+    "ram": "2",
+    "storage": "32",
+    "rating": "5/5",
+    "rating-count": "82",
+    "category": "phone",
+    "colors": {
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/30/638001575577748669_xiaomi-redmi-a1-xanh-5.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/30/638001571506654078_xiaomi-redmi-a1-den-5.jpg"
+      }
+    }
+  },
+  "vivo-y15s": {
+    "name": "Vivo Y15s",
+    "brand": "vivo",
+    "price-sub": "3490000",
+    "price": "2490000",
+    "discount": 29,
+    "battery": "5000",
+    "display": "6.51",
+    "ram": "3",
+    "storage": "32",
+    "rating": "5/5",
+    "rating-count": "318",
+    "category": "phone",
+    "colors": {
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/25/637707824369475682_00779951-vivo-y15s--xanh-den-1.jpg"
+      }
+    }
+  },
+  "xiaomi-redmi-10-2022": {
+    "name": "Xiaomi Redmi 10 2022",
+    "brand": "xiaomi",
+    "price-sub": "4290000",
+    "price": "3790000",
+    "discount": 12,
+    "battery": "5000",
+    "display": "6.5",
+    "ram": "4",
+    "storage": "128",
+    "rating": "4/5",
+    "rating-count": "48",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/5/10/637877742594774669_xiaomi-redmi-10-2022-xam-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/5/10/637877751179526332_xiaomi-redmi-10-2022-trang-1.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/5/10/637877742148683703_xiaomi-redmi-10-2022-xanh-1.jpg"
+      }
+    }
+  },
+  "xiaomi-redmi-note-11": {
+    "name": "Xiaomi Redmi Note 11",
+    "brand": "xiaomi",
+    "price-sub": "4990000",
+    "price": "3990000",
+    "discount": 20,
+    "battery": "5000",
+    "display": "6.43",
+    "ram": "4",
+    "storage": "128",
+    "rating": "4/5",
+    "rating-count": "44",
+    "category": "phone",
+    "colors": {
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/1/27/637788719726788724_xiaomi-redmi-note-11-xanh-1.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/1/27/637788717449466537_xiaomi-redmi-note-11-xam-1.jpg"
+      }
+    }
+  },
+  "oppo-a95": {
+    "name": "OPPO A95",
+    "brand": "oppo",
+    "price-sub": "6490000",
+    "price": "5490000",
+    "discount": 15,
+    "battery": "5000",
+    "display": "6.43",
+    "ram": "8",
+    "storage": "128",
+    "rating": "5/5",
+    "rating-count": "278",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/20/637730043528786549_oppo-a95-den-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/20/637730059696400830_oppo-a95-bac-1.jpg"
+      }
+    }
+  },
+  "xiaomi-redmi-note-11-pro": {
+    "name": "Xiaomi Redmi Note 11 Pro",
+    "brand": "xiaomi",
+    "price-sub": "7490000",
+    "price": "5990000",
+    "discount": 20,
+    "battery": "5000",
+    "display": "6.67",
+    "ram": "8",
+    "storage": "",
+    "rating": "5/5",
+    "rating-count": "745",
+    "category": "phone",
+    "colors": {
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/14/637804673212874594_2.xiaomi-redmi-note-11-pro-4g-trang-4.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/14/637804673210218283_2.xiaomi-redmi-note-11-pro-4g-xam-4.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/14/637804673209905859_2.xiaomi-redmi-note-11-pro-4g-xanh-4.jpg"
+      }
+    }
+  },
+  "oppo-a77s": {
+    "name": "OPPO A77s",
+    "brand": "oppo",
+    "price-sub": "6290000",
+    "price": "5990000",
+    "discount": 5,
+    "battery": "5000",
+    "display": "6.56",
+    "ram": "8",
+    "storage": "128",
+    "rating": "5/5",
+    "rating-count": "333",
+    "category": "phone",
+    "colors": {
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/5/638005897366049263_oppo-a77s-xanh-5.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/5/638005897366049263_oppo-a77s-den-5.jpg"
+      }
+    }
+  },
+  "samsung-galaxy-s21-fe-5g": {
+    "name": "Samsung Galaxy S21 FE 5G",
+    "brand": "samsung",
+    "price-sub": "16990000",
+    "price": "10290000",
+    "discount": 39,
+    "battery": "4500",
+    "display": "6.4",
+    "ram": "8",
+    "storage": "128",
+    "rating": "5/5",
+    "rating-count": "328",
+    "category": "phone",
+    "colors": {
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/1/4/637768908052433134_samsung-galaxy-s21-fe-xanh-1.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/1/4/637768938457620224_samsung-galaxy-s21-fe-xam-1.jpg"
+      },
+      "pink": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/1/4/637768908052433134_samsung-galaxy-s21-fe-xanh-1.jpg"
+      }
+    }
+  },
+  "iphone-11": {
+    "name": "iPhone 11",
+    "brand": "apple",
+    "price-sub": "11990000",
+    "price": "10480000",
+    "discount": 13,
+    "battery": "3110",
+    "display": "6.1",
+    "ram": "4",
+    "storage": "64",
+    "rating": "5/5",
+    "rating-count": "1053",
+    "category": "phone",
+    "colors": {
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059309890101717_iphone-11-trang-1.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059306728859551_iphone-11-den-1.jpg"
+      }
+    }
+  },
+  "samsung-galaxy-s23-ultra-5g": {
+    "name": "Samsung Galaxy S23 Ultra 5G",
+    "brand": "samsung",
+    "price-sub": "31990000",
+    "price": "23790000",
+    "discount": 26,
+    "battery": "5000",
+    "display": "6.8",
+    "ram": "8",
+    "storage": "256",
+    "rating": "5/5",
+    "rating-count": "1131",
+    "category": "phone",
+    "colors": {
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/2/638108933021851432_samsung-galaxy-s23-ultra-xanh-1.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/2/638108941585078058_samsung-galaxy-s23-ultra-den-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/2/638108945003723972_samsung-galaxy-s23-ultra-kem-1.jpg"
+      },
+      "pink": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/2/638108937882519991_samsung-galaxy-s23-ultra-tim-1.jpg"
+      }
+    }
+  },
+  "asus-rog-phone-6": {
+    "name": "Asus ROG Phone 6",
+    "brand": "asus",
+    "price-sub": "18990000",
+    "price": "14990000",
+    "discount": 21,
+    "battery": "6000",
+    "display": "6.78",
+    "ram": "12",
+    "storage": "256",
+    "rating": "5/5",
+    "rating-count": "98",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/7/26/637944507139458479_asus-rog-6-12gb-256gb-den-3.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/7/26/637944496334053194_asus-rog-6-12gb-256gb-trang-3.jpg"
+      }
+    }
+  },
+  "asus-rog-phone-7": {
+    "name": "Asus ROG Phone 7",
+    "brand": "asus",
+    "price-sub": "24990000",
+    "price": "23990000",
+    "discount": 4,
+    "battery": "6000",
+    "display": "6.78",
+    "ram": "16",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "10",
+    "category": "phone",
+    "colors": {
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/4/13/638170051081276510_asus-rog-phone-7-trang-4.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/5/27/638208081279562910_asus-rog-phone-7-den-5.jpg"
+      }
+    }
+  },
+  "xiaomi-redmi-10a": {
+    "name": "Xiaomi Redmi 10A",
+    "brand": "xiaomi",
+    "price-sub": "3290000",
+    "price": "2690000",
+    "discount": 18,
+    "battery": "5000",
+    "display": "6.53",
+    "ram": "3",
+    "storage": "64",
+    "rating": "5/5",
+    "rating-count": "84",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/21/638072287029793818_Xiaomi-Redmi-10A-2GB-32GB-xam-1.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/21/638072287030090738_Xiaomi-Redmi-10A-2GB-32GB-xanh-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/21/638072287029391755_Xiaomi-Redmi-10A-2GB-32GB-bac-1.jpg"
+      }
+    }
+  },
+  "xiaomi-redmi-12c": {
+    "name": "Xiaomi Redmi 12C",
+    "brand": "xiaomi",
+    "price-sub": "3590000",
+    "price": "2690000",
+    "discount": 25,
+    "battery": "5000",
+    "display": "6.71",
+    "ram": "4",
+    "storage": "64",
+    "rating": "4/5",
+    "rating-count": "16",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138646675311035_xiaomi-redmi-12c-xam-1.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138659476267794_xiaomi-redmi-12c-xanh-la-5.jpg"
+      }
+    }
+  },
+  "xiaomi-redmi-note-12-pro": {
+    "name": "Xiaomi Redmi Note 12 Pro",
+    "brand": "xiaomi",
+    "price-sub": "7990000",
+    "price": "7390000",
+    "discount": 8,
+    "battery": "5000",
+    "display": "6.67",
+    "ram": "8",
+    "storage": "256",
+    "rating": "5/5",
+    "rating-count": "5",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/5/9/638192218985484024_xiaomi-redmi-note-12-pro-den-5.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/5/9/638192232996225598_xiaomi-redmi-note-12-pro-xanh-5.jpg"
+      }
+    }
+  },
+  "xiaomi-13-lite": {
+    "name": "Xiaomi 13 Lite",
+    "brand": "xiaomi",
+    "price-sub": "10690000",
+    "price": "8790000",
+    "discount": 18,
+    "battery": "4500",
+    "display": "6.55",
+    "ram": "8",
+    "storage": "128",
+    "rating": "5/5",
+    "rating-count": "1016",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/20/638125128408536178_xiaomi-13-lite-den-1.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/20/638125125188590918_xiaomi-13-lite-xanh-5.jpg"
+      }
+    }
+  },
+  "samsung-galaxy-a04s": {
+    "name": "Samsung Galaxy A04s",
+    "brand": "samsung",
+    "price-sub": "3990000",
+    "price": "3390000",
+    "discount": 15,
+    "battery": "5000",
+    "display": "6.5",
+    "ram": "4",
+    "storage": "64",
+    "rating": "5/5",
+    "rating-count": "190",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/5/23/638204394273382414_samsung-galaxy-a04s-den-4.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/5/23/638204394274328482_samsung-galaxy-a04s-xanh-2.jpg"
+      },
+      "brown": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/5/23/638204394274484741_samsung-galaxy-a04s-nau-1.jpg"
+      }
+    }
+  },
+  "samsung-galaxy-a04": {
+    "name": "Samsung Galaxy A04",
+    "brand": "samsung",
+    "price-sub": "2990000",
+    "price": "2390000",
+    "discount": 20,
+    "battery": "5000",
+    "display": "6.5",
+    "ram": "3",
+    "storage": "32",
+    "rating": "5/5",
+    "rating-count": "68",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/5/23/638204396769573258_samsung-galaxy-a04-den-3.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/5/23/638204396773490668_samsung-galaxy-a04-xanh-5.jpg"
+      },
+      "brown": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/5/23/638204396770676643_samsung-galaxy-a04-cam-3.jpg"
+      }
+    }
+  },
+  "oppo-a17k": {
+    "name": "OPPO A17k",
+    "brand": "oppo",
+    "price-sub": "3290000",
+    "price": "2990000",
+    "discount": 9,
+    "battery": "5000",
+    "display": "6.56",
+    "ram": "3",
+    "storage": "64",
+    "rating": "5/5",
+    "rating-count": "65",
+    "category": "phone",
+    "colors": {
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/2/638029862729276175_oppo-a17k-xanh-4.jpg"
+      },
+      "yellow": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/2/638029862729276175_oppo-a17k-vang-4.jpg"
+      }
+    }
+  },
+  "oppo-a57": {
+    "name": "OPPO A57",
+    "brand": "oppo",
+    "price-sub": "4990000",
+    "price": "4390000",
+    "discount": 12,
+    "battery": "5000",
+    "display": "6.56",
+    "ram": "4",
+    "storage": "128",
+    "rating": "4/5",
+    "rating-count": "39",
+    "category": "phone",
+    "colors": {
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/6/27/637919436417203150_oppo-a57-xanh-1.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/6/27/637919437068621162_oppo-a57-den-3.jpg"
+      },
+      "yellow": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/27/637998707641402834_oppo-a57-4g-128gb-vang-2.jpg"
+      }
+    }
+  },
+  "samsung-galaxy-a14-4g": {
+    "name": "Samsung Galaxy A14 4G",
+    "brand": "samsung",
+    "price-sub": "4490000",
+    "price": "3890000",
+    "discount": 13,
+    "battery": "5000",
+    "display": "6.6",
+    "ram": "4",
+    "storage": "128",
+    "rating": "5/5",
+    "rating-count": "254",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/5/23/638204362401987928_samsung-galaxy-a14-4g-den-2.jpg"
+      },
+      "red": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/5/23/638204361011751586_samsung-galaxy-a14-4g-do-3.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/5/23/638204362404674287_samsung-galaxy-a14-4g-bac-3.jpg"
+      }
+    }
+  },
+  "realme-c55": {
+    "name": "Realme C55",
+    "brand": "realme",
+    "price-sub": "4990000",
+    "price": "4390000",
+    "discount": 12,
+    "battery": "5000",
+    "display": "6.7",
+    "ram": "6",
+    "storage": "128",
+    "rating": "5/5",
+    "rating-count": "19",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/21/638150124686957517_realme-c55-den-5.jpg"
+      },
+      "yellow": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/21/638150124687384654_realme-c55-vang-5.jpg"
+      }
+    }
+  },
+  "oppo-a55": {
+    "name": "OPPO A55",
+    "brand": "oppo",
+    "price-sub": "3990000",
+    "price": "3690000",
+    "discount": 8,
+    "battery": "5000",
+    "display": "6.5",
+    "ram": "4",
+    "storage": "64",
+    "rating": "5/5",
+    "rating-count": "264",
+    "category": "phone",
+    "colors": {
+      "green": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/21/637834586191851078_oppo-a55-xanhla-1.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/15/637699216670141867_oppo-a55-den-1.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/15/637699212153235837_oppo-a55-xanh-1.jpg"
+      }
+    }
+  },
+  "xiaomi-redmi-note-12": {
+    "name": "Xiaomi Redmi Note 12",
+    "brand": "xiaomi",
+    "price-sub": "4990000",
+    "price": "4390000",
+    "discount": 12,
+    "battery": "5000",
+    "display": "6.67",
+    "ram": "4",
+    "storage": "128",
+    "rating": "5/5",
+    "rating-count": "73",
+    "category": "phone",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/22/638150992294466598_xiaomi-redmi-note-12-xam-5.jpg"
+      },
+      "green": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/22/638150991182170532_xiaomi-redmi-note-12-xanh-la-4.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/22/638150994081801970_xiaomi-redmi-note-12-xanh-3.jpg"
+      }
+    }
+  },
+  "samsung-galaxy-s22-5g": {
+    "name": "Samsung Galaxy S22 5G",
+    "brand": "samsung",
+    "price-sub": "21990000",
+    "price": "12490000",
+    "discount": 43,
+    "battery": "3700",
+    "display": "6.1",
+    "ram": "8",
+    "storage": "128",
+    "rating": "5/5",
+    "rating-count": "1579",
+    "category": "phone",
+    "colors": {
+      "pink": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/7/23/637941779749495327_samsung-galaxy-s22-bora-purple-1.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/10/637800490165751486_samsung-galaxy-s22-xanh-1.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/10/637800498484893706_samsung-galaxy-s22-den-12.jpg"
+      }
+    }
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "ipad-pro-12.9-2022-m2-5g-512gb": {
+    "name": "iPad Pro 12.9 2022 M2 5G",
+    "brand": "apple",
+    "price-sub": "54990000",
+    "price": "50990000",
+    "discount": 7,
+    "battery": "10 hours",
+    "display": "12.9",
+    "ram": "16",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "32",
+    "category": "tablet",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/1/638055131543606977_ipad-pro-129-inch-m2-5g-xam-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/1/638055133212191777_ipad-pro-129-inch-m2-5g-bac-1.jpg"
+      }
+    }
+  },
+  "lenovo-tab-m10": {
+    "name": "Lenovo Tab M10",
+    "brand": "lenovo",
+    "price-sub": "5690000",
+    "price": "3940000",
+    "discount": 31,
+    "battery": "5000",
+    "display": "10.1",
+    "ram": "4",
+    "storage": "64",
+    "rating": "4/5",
+    "rating-count": "37",
+    "category": "tablet",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/14/637618697975227700_lenovo-tab-m10-gen-2-xam-1.jpg"
+      }
+    }
+  },
+  "xiaomi-redmi-pad": {
+    "name": "Xiaomi Redmi Pad",
+    "brand": "xiaomi",
+    "price-sub": "6290000",
+    "price": "4790000",
+    "discount": 24,
+    "battery": "8000",
+    "display": "10.61",
+    "ram": "3",
+    "storage": "64",
+    "rating": "5/5",
+    "rating-count": "116",
+    "category": "tablet",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/24/638048985101984297_xiaomi-redmi-pad-xam-4.jpg"
+      }
+    }
+  },
+  "oppo-pad-air": {
+    "name": "OPPO Pad Air",
+    "brand": "oppo",
+    "price-sub": "6690000",
+    "price": "6390000",
+    "discount": 4,
+    "battery": "7100",
+    "display": "10.36",
+    "ram": "4",
+    "storage": "64",
+    "rating": "5/5",
+    "rating-count": "126",
+    "category": "tablet",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/6/637953963685335528_oppo-pad-air-4.jpg"
+      }
+    }
+  },
+  "ipad-gen-10-2022-10.9-inch": {
+    "name": "iPad Gen 10 2022 10.9 inch",
+    "brand": "apple",
+    "price-sub": "12990000",
+    "price": "10990000",
+    "discount": 15,
+    "battery": "10 hours",
+    "display": "10.9",
+    "ram": "4",
+    "storage": "64",
+    "rating": "5/5",
+    "rating-count": "34",
+    "category": "tablet",
+    "colors": {
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/1/638054842391741479_ipad-gen10-109-cell-xanh-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/1/638054829629162158_ipad-gen10-109-cell-trang-1.jpg"
+      },
+      "pink": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/1/638054827883816537_ipad-gen10-109-cell-hong-1.jpg"
+      },
+      "yellow": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/1/638054827883816537_ipad-gen10-109-cell-hong-1.jpg"
+      }
+    }
+  },
+  "ipad-air-5-2022-10.9-inch-m1": {
+    "name": "iPad Air 5 2022 10.9 inch M1",
+    "brand": "apple",
+    "price-sub": "16990000",
+    "price": "13990000",
+    "discount": 18,
+    "battery": "10 hours",
+    "display": "10.9",
+    "ram": "8",
+    "storage": "64",
+    "rating": "5/5",
+    "rating-count": "360",
+    "category": "tablet",
+    "colors": {
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/5/638058458348881814_ipad-air-5-wf-xanh-1.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/5/638058463886278405_ipad-air-5-wf-xam-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/5/638058456053329427_ipad-air-5-wf-vang-1.jpg"
+      },
+      "pink": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/5/638058460100154855_ipad-air-5-wf-hong-1.jpg"
+      }
+    }
+  },
+  "ipad-gen-10-2022-10.9-inch-5g": {
+    "name": "iPad Gen 10 2022 10.9 inch 5G",
+    "brand": "apple",
+    "price-sub": "16990000",
+    "price": "14390000",
+    "discount": 15,
+    "battery": "10 hours",
+    "display": "10.9",
+    "ram": "4",
+    "storage": "64",
+    "rating": "5/5",
+    "rating-count": "36",
+    "category": "tablet",
+    "colors": {
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054288143071229_ipad-gen10-109-cell-xanh-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054285319431063_ipad-gen10-109-cell-trang-1.jpg"
+      },
+      "pink": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054283996791153_ipad-gen10-109-cell-hong-1.jpg"
+      },
+      "yellow": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054286689021137_ipad-gen10-109-cell-vang-1.jpg"
+      }
+    }
+  },
+  "ipad-pro-11-2022-m2": {
+    "name": "iPad Pro 11 2022 M2",
+    "brand": "apple",
+    "price-sub": "23990000",
+    "price": "20490000",
+    "discount": 15,
+    "battery": "10 hours",
+    "display": "11.0",
+    "ram": "8",
+    "storage": "128",
+    "rating": "5/5",
+    "rating-count": "473",
+    "category": "tablet",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/2/638055947587336314_ipad-pro-11-inch-m2-wifi-xam-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/2/638055950546989770_ipad-pro-11-inch-m2-wifi-bac-1.jpg"
+      }
+    }
+  },
+  "ipad-pro-11-2022-m2-5g": {
+    "name": "iPad Pro 11 2022 M2 5G",
+    "brand": "apple",
+    "price-sub": "27990000",
+    "price": "23690000",
+    "discount": 15,
+    "battery": "9 hours",
+    "display": "11.0",
+    "ram": "8",
+    "storage": "128",
+    "rating": "5/5",
+    "rating-count": "4",
+    "category": "tablet",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/1/638055070100347937_ipad-pro-11-inch-m2-5g-xam-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/1/638055090315455710_ipad-pro-11-inch-m2-5g-bac-1.jpg"
+      }
+    }
+  },
+  "ipad-pro-12.9-2022-m2": {
+    "name": "iPad Pro 12.9 2022 M2",
+    "brand": "apple",
+    "price-sub": "31990000",
+    "price": "28090000",
+    "discount": 12,
+    "battery": "10 hours",
+    "display": "12.9",
+    "ram": "8",
+    "storage": "128",
+    "rating": "5/5",
+    "rating-count": "50",
+    "category": "tablet",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/2/638055968531102552_ipad-pro-129-inch-m2-wifi-xam-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/2/638055958741916271_ipad-pro-129-inch-m2-wifi-bac-1.jpg"
+      }
+    }
+  },
+  "ipad-pro-12.9-2022-m2-5g": {
+    "name": "iPad Pro 12.9 2022 M2 5G",
+    "brand": "apple",
+    "price-sub": "35990000",
+    "price": "31990000",
+    "discount": 11,
+    "battery": "9 hours",
+    "display": "12.9",
+    "ram": "8",
+    "storage": "128",
+    "rating": "4/5",
+    "rating-count": "19",
+    "category": "tablet",
+    "colors": {
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/1/638055133212191777_ipad-pro-129-inch-m2-5g-bac-1.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/1/638055128497926981_ipad-pro-129-inch-m2-5g-xam-1.jpg"
+      }
+    }
+  },
+  "samsung-galaxy-tab-a8-2022": {
+    "name": "Samsung Galaxy Tab A8 2022",
+    "brand": "samsung",
+    "price-sub": "6990000",
+    "price": "6490000",
+    "discount": 7,
+    "battery": "7040",
+    "display": "10.5",
+    "ram": "4",
+    "storage": "64",
+    "rating": "5/5",
+    "rating-count": "389",
+    "category": "tablet",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/1/8/637772299857867551_samsung-galaxy-tab-a8-xam-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/1/8/637772306345990571_samsung-galaxy-tab-a8-bac-1.jpg"
+      }
+    }
+  },
+  "samsung-galaxy-tab-a7-lite": {
+    "name": "Samsung Galaxy Tab A7 Lite",
+    "brand": "samsung",
+    "price-sub": "4490000",
+    "price": "3990000",
+    "discount": 11,
+    "battery": "5100",
+    "display": "8.7",
+    "ram": "3",
+    "storage": "32",
+    "rating": "5/5",
+    "rating-count": "366",
+    "category": "tablet",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/5/27/637577064561995165_ss-tab-a7-lite-xam-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/5/27/637577065574581145_ss-tab-a7-lite-bac-1.jpg"
+      }
+    }
+  },
+  "samsung-galaxy-tab-s7-fe": {
+    "name": "Samsung Galaxy Tab S7 FE",
+    "brand": "samsung",
+    "price-sub": "13990000",
+    "price": "10990000",
+    "discount": 21,
+    "battery": "10090",
+    "display": "12.4",
+    "ram": "4",
+    "storage": "64",
+    "rating": "5/5",
+    "rating-count": "151",
+    "category": "tablet",
+    "colors": {
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607333180560564_samsung-galaxy-tab-s7-fe-xanh-0.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607331812565519_samsung-galaxy-tab-s7-fe-den-0.jpg"
+      },
+      "pink": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/5/20/637886609227026159_samsung-galaxy-tab-s7-fe-hong-1.jpg"
+      }
+    }
+  },
+  "samsung-galaxy-tab-a8": {
+    "name": "Samsung Galaxy Tab A8",
+    "brand": "samsung",
+    "price-sub": "5990000",
+    "price": "4790000",
+    "discount": 20,
+    "battery": "7040",
+    "display": "10.5",
+    "ram": "4",
+    "storage": "64",
+    "rating": "4/5",
+    "rating-count": "28",
+    "category": "tablet",
+    "colors": {
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/4/19/638174910920928660_samsung-galaxy-tab-a8-wifi-bac-1.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/4/19/638174908035412794_samsung-galaxy-tab-a8-wifi-xam-1.jpg"
+      },
+      "pink": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/4/19/638174911824775528_samsung-galaxy-tab-a8-wifi-hong-1.jpg"
+      }
+    }
+  },
+  "ipad-mini-6-2021-8.3-inch": {
+    "name": "iPad mini 6 2021 8.3 inch",
+    "brand": "apple",
+    "price-sub": "14990000",
+    "price": "11790000",
+    "discount": 21,
+    "battery": "10 hours",
+    "display": "8.3",
+    "ram": "4",
+    "storage": "64",
+    "rating": "5/5",
+    "rating-count": "294",
+    "category": "tablet",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059319531382608_ipad-mini-6-wifi-xam-1.jpg"
+      },
+      "pink": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059313570329429_ipad-mini-6-wifi-hong-1.jpg"
+      },
+      "yellow": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059317253580936_ipad-mini-6-wifi-trang-1.jpg"
+      }
+    }
+  },
+  "samsung-galaxy-tab-s6-lite-2022": {
+    "name": "Samsung Galaxy Tab S6 Lite 2022",
+    "brand": "samsung",
+    "price-sub": "9990000",
+    "price": "6990000",
+    "discount": 30,
+    "battery": "7040",
+    "display": "10.4",
+    "ram": "4",
+    "storage": "64",
+    "rating": "5/5",
+    "rating-count": "2146",
+    "category": "tablet",
+    "colors": {
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/7/11/637931279965035868_samsung-galaxy-tab-s6-lite-2022-xanh-6.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/7/11/637931279963004703_samsung-galaxy-tab-s6-lite-2022-den-6.jpg"
+      }
+    }
+  },
+  "ipad-gen-9-2021-10.2-inch": {
+    "name": "iPad Gen 9 2021 10.2 inch",
+    "brand": "apple",
+    "price-sub": "9990000",
+    "price": "7390000",
+    "discount": 26,
+    "battery": "",
+    "display": "10.2",
+    "ram": "3",
+    "storage": "64",
+    "rating": "5/5",
+    "rating-count": "572",
+    "category": "tablet",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059477320471757_iPad-Gen-9-xam--6.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059477189671553_iPad-Gen-9-bac--6.jpg"
+      }
+    }
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "lenovo-ideapad-gaming-3-15arh7-r7-6800h-(82sb007kvn)": {
+    "name": "Lenovo Ideapad Gaming 3 15ARH7 R7 6800H (82SB007KVN)",
+    "brand": "lenovo",
+    "price-sub": "20990000",
+    "price": "18990000",
+    "discount": 10,
+    "display": "15.6",
+    "ram": "8",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "116",
+    "category": "gaming-laptop",
+    "colors": {
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/15/637961729514184998_lenovo-ideapad-gaming-3-15arh7-trang-4.jpg"
+      }
+    }
+  },
+  "asus-tuf-gaming-fx506hc-hn949w-i5-11400h": {
+    "name": "Asus TUF Gaming FX506HC HN949W i5 11400H",
+    "brand": "asus",
+    "price-sub": "23990000",
+    "price": "19990000",
+    "discount": 17,
+    "display": "15.6",
+    "ram": "16",
+    "storage": "512",
+    "rating": "4/5",
+    "rating-count": "12",
+    "category": "gaming-laptop",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/18/638147328207018755_asus-tuf-gaming-fx506h-den-1.jpg"
+      }
+    }
+  },
+  "asus-tuf-gaming-fx506lhb-hn188w-i5-10300h": {
+    "name": "Asus TUF Gaming FX506LHB HN188W i5 10300H",
+    "brand": "asus",
+    "price-sub": "16490000",
+    "price": "15490000",
+    "discount": 6,
+    "display": "15.6",
+    "ram": "8",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "156",
+    "category": "gaming-laptop",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/1/26/637788079927538825_asus-tuf-gaming-fx506lh-den-2022-1.jpg"
+      }
+    }
+  },
+  "lenovo-gaming-legion-5-15arh7-r7-6800h/82re0035vn": {
+    "name": "Lenovo Gaming Legion 5 15ARH7 R7 6800H/82RE0035VN",
+    "brand": "lenovo",
+    "price-sub": "27990000",
+    "price": "26990000",
+    "discount": 4,
+    "display": "15.6",
+    "ram": "8",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "106",
+    "category": "gaming-laptop",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/20/638018713259494423_lenovo-gaming-legion-5-15arh7-xam-dam-1.jpg"
+      }
+    }
+  },
+  "lenovo-gaming-legion-5-15iah7h-i5-12500h-(82rb0048vn)": {
+    "name": "Lenovo Gaming Legion 5 15IAH7H i5 12500H (82RB0048VN)",
+    "brand": "lenovo",
+    "price-sub": "42990000",
+    "price": "30990000",
+    "discount": 28,
+    "display": "15.6",
+    "ram": "16",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "46",
+    "category": "gaming-laptop",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/23/638151671900654404_lenovo-gaming-legion-5-15iah7h-xam-dam-1.jpg"
+      }
+    }
+  },
+  "lenovo-gaming-ideapad-3-15iah7-i5-12500h/82s900h2vn": {
+    "name": "Lenovo Gaming IdeaPad 3 15IAH7 i5 12500H/82S900H2VN",
+    "brand": "lenovo",
+    "price-sub": "21990000",
+    "price": "19990000",
+    "discount": 9,
+    "display": "15.6",
+    "ram": "16",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "69",
+    "category": "gaming-laptop",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/26/637971153501323885_lenovo-ideapad-gaming-3-15iah7-xam-1.jpg"
+      }
+    }
+  },
+  "asus-tuf-gaming-fx507zv4-lp041w-i7-12700h": {
+    "name": "Asus TUF Gaming FX507ZV4 LP041W i7 12700H",
+    "brand": "asus",
+    "price-sub": "36490000",
+    "price": "29990000",
+    "discount": 18,
+    "display": "15.6",
+    "ram": "8",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "2",
+    "category": "gaming-laptop",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/7/4/638240754677083179_asus-tuf-gaming-fx507-xam-1.jpg"
+      }
+    }
+  },
+  "asus-gaming-rog-g513ic-hn729w-r7-4800h": {
+    "name": "Asus Gaming ROG G513IC HN729W R7 4800H",
+    "brand": "asus",
+    "price-sub": "25990000",
+    "price": "19490000",
+    "discount": 25,
+    "display": "15.6",
+    "ram": "8",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "52",
+    "category": "gaming-laptop",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/8/26/637655727924518755_asus-rog-gaming-g513-rgb4-xam-1.jpg"
+      }
+    }
+  },
+  "asus-tuf-gaming-fx706hc-hx579w-i5-11400h": {
+    "name": "Asus TUF Gaming FX706HC HX579W i5 11400H",
+    "brand": "asus",
+    "price-sub": "26490000",
+    "price": "19490000",
+    "discount": 26,
+    "display": "17.3",
+    "ram": "8",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "84",
+    "category": "gaming-laptop",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/5/637979643267415257_asus-tuf-gaming-fx706hc-hx579w-i5-11400h-xam-1.jpg"
+      }
+    }
+  },
+  "asus-tuf-gaming-fa507nu-lp034w-r7-7735hs": {
+    "name": "Asus TUF Gaming FA507NU LP034W R7 7735HS",
+    "brand": "asus",
+    "price-sub": "31490000",
+    "price": "25990000",
+    "discount": 17,
+    "display": "15.6",
+    "ram": "8",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "2",
+    "category": "gaming-laptop",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/5/24/638205241498465719_asus-tuf-gaming-fa507nu-lp034w-r7-7735hs-xam-1.jpg"
+      }
+    }
+  },
+  "asus-gaming-tuf-fa506icb-hn355w-r5": {
+    "name": "Asus Gaming TUF FA506ICB HN355W R5",
+    "brand": "asus",
+    "price-sub": "21990000",
+    "price": "16990000",
+    "discount": 23,
+    "display": "15.6",
+    "ram": "8",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "50",
+    "category": "gaming-laptop",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/28/638025712376596719_asus-tuf-gaming-fa506-2022-den-1.jpg"
+      }
+    }
+  },
+  "asus-tuf-gaming-fx506hc-hn144w-i5-11400h": {
+    "name": "Asus TUF Gaming FX506HC HN144W i5 11400H",
+    "brand": "asus",
+    "price-sub": "22990000",
+    "price": "18490000",
+    "discount": 20,
+    "display": "15.6",
+    "ram": "8",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "139",
+    "category": "gaming-laptop",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/8/637850092511020843_asus-tuf-gaming-fx506h-den-1.jpg"
+      }
+    }
+  },
+  "asus-tuf-gaming-fx517zc-hn077w-i5-12450h": {
+    "name": "Asus TUF Gaming FX517ZC HN077W i5 12450H",
+    "brand": "asus",
+    "price-sub": "23990000",
+    "price": "19790000",
+    "discount": 18,
+    "display": "15.6",
+    "ram": "8",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "289",
+    "category": "gaming-laptop",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/22/637835764419854570_asus-tuf-gaming-fx517-den-1.jpg"
+      }
+    }
+  },
+  "asus-tuf-gaming-fx506hf-hn017w-i5-11400h": {
+    "name": "Asus TUF Gaming FX506HF HN017W i5 11400H",
+    "brand": "asus",
+    "price-sub": "21990000",
+    "price": "17990000",
+    "discount": 18,
+    "display": "15.6",
+    "ram": "16",
+    "storage": "512",
+    "rating": "4/5",
+    "rating-count": "16",
+    "category": "gaming-laptop",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/4/4/638162268369378408_asus-tuf-gaming-fx506hf-den-1.jpg"
+      }
+    }
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "lenovo-v14-i3-1005g1-(nk)": {
+    "name": "Lenovo V14 i3 1005G1 (NK)",
+    "brand": "lenovo",
+    "price-sub": "13690000",
+    "price": "6690000",
+    "discount": 51,
+    "display": "14.0",
+    "ram": "4",
+    "storage": "128",
+    "rating": "5/5",
+    "rating-count": "118",
+    "category": "ultrabook",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/5/16/637883111213094849_lenovo-ideapad-3-i3-1005g1-nk-xam-1.jpg"
+      }
+    }
+  },
+  "macbook-air-13-inch-m1-2020-8cpu-7gpu": {
+    "name": "MacBook Air 13 inch M1 2020 8CPU 7GPU",
+    "brand": "apple",
+    "price-sub": "22990000",
+    "price": "18990000",
+    "discount": 17,
+    "display": "13.3",
+    "ram": "8",
+    "storage": "256",
+    "rating": "5/5",
+    "rating-count": "445",
+    "category": "ultrabook",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/11/12/637407982638531818_mba-2020-gray-1.png"
+      }
+    }
+  },
+  "macbook-air-13-inch-m2-2022-8cpu-8gpu": {
+    "name": "MacBook Air 13 inch M2 2022 8CPU 8GPU",
+    "brand": "apple",
+    "price-sub": "29990000",
+    "price": "26990000",
+    "discount": 10,
+    "display": "13.6",
+    "ram": "8",
+    "storage": "256",
+    "rating": "5/5",
+    "rating-count": "121",
+    "category": "ultrabook",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/6/7/637901923612601202_macbook-air-m2-2022-den-1.jpg"
+      }
+    }
+  },
+  "macbook-pro-13-inch-m1-2020-8cpu-8gpu": {
+    "name": "MacBook Pro 13 inch M1 2020 8CPU 8GPU",
+    "brand": "apple",
+    "price-sub": "29990000",
+    "price": "27999000",
+    "discount": 7,
+    "display": "13.3",
+    "ram": "8",
+    "storage": "256",
+    "rating": "5/5",
+    "rating-count": "416",
+    "category": "ultrabook",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/11/12/637408000895334462_mbp-2020-m1-gray-1.png"
+      }
+    }
+  },
+  "macbook-pro-13-inch-m2-2022-8cpu-10gpu": {
+    "name": "MacBook Pro 13 inch M2 2022 8CPU 10GPU",
+    "brand": "apple",
+    "price-sub": "31990000",
+    "price": "29790000",
+    "discount": 7,
+    "display": "13.3",
+    "ram": "8",
+    "storage": "256",
+    "rating": "5/5",
+    "rating-count": "713",
+    "category": "ultrabook",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/6/7/637901982829761519_macbook-pro-m2-2022-xam-1.jpg"
+      }
+    }
+  },
+  "macbook-pro-14-inch-m1-pro-2021-10cpu-16gpu": {
+    "name": "MacBook Pro 14 inch M1 Pro 2021 10CPU 16GPU",
+    "brand": "apple",
+    "price-sub": "46990000",
+    "price": "41990000",
+    "discount": 11,
+    "display": "14.2",
+    "ram": "16",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "254",
+    "category": "ultrabook",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/19/637702664477698071_macbook-pro-14-2021-xam-1.jpg"
+      }
+    }
+  },
+  "asus-vivobook-pro-m3401qa-km025w-r7-5800h": {
+    "name": "Asus Vivobook Pro M3401QA KM025W R7 5800H",
+    "brand": "asus",
+    "price-sub": "18490000",
+    "price": "17490000",
+    "discount": 5,
+    "display": "14.0",
+    "ram": "8",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "285",
+    "category": "ultrabook",
+    "colors": {
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/12/30/637764585584576434_asus-vivobook-pro-m3401qa-bac-1.jpg"
+      }
+    }
+  },
+  "lenovo-thinkpad-t14s-gen-2-i5-1135g7-(20wm01t1vn)": {
+    "name": "Lenovo ThinkPad T14s Gen 2 i5 1135G7 (20WM01T1VN)",
+    "brand": "lenovo",
+    "price-sub": "27990000",
+    "price": "26990000",
+    "discount": 4,
+    "display": "14.0",
+    "ram": "16",
+    "storage": "512",
+    "rating": "4/5",
+    "rating-count": "12",
+    "category": "ultrabook",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/14/638119835989637572_lenovo-thinkpad-t14s-gen-2-den-1.jpg"
+      }
+    }
+  },
+  "lenovo-yoga-7-14acn6-r5-5600u-(82n7002mvn)": {
+    "name": "Lenovo Yoga 7 14ACN6 R5 5600U (82N7002MVN)",
+    "brand": "lenovo",
+    "price-sub": "18990000",
+    "price": "16990000",
+    "discount": 11,
+    "display": "14.0",
+    "ram": "8",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "268",
+    "category": "ultrabook",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/1/11/637775083720823374_lenovo-yoga-7-14acn6-xam-1.jpg"
+      }
+    }
+  },
+  "asus-vivobook-m1403qa-ly022w-r5-5600h": {
+    "name": "Asus Vivobook M1403QA LY022W R5 5600H",
+    "brand": "asus",
+    "price-sub": "14990000",
+    "price": "13990000",
+    "discount": 7,
+    "display": "14.0",
+    "ram": "8",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "666",
+    "category": "ultrabook",
+    "colors": {
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/14/637987719191658652_asus-vivobook-m1403-non-oled-bac-1.jpg"
+      }
+    }
+  },
+  "asus-vivobook-m1503qa-l1026w-r5-5600h": {
+    "name": "Asus Vivobook M1503QA L1026W R5 5600H",
+    "brand": "asus",
+    "price-sub": "15990000",
+    "price": "14990000",
+    "discount": 6,
+    "display": "15.6",
+    "ram": "8",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "111",
+    "category": "ultrabook",
+    "colors": {
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/26/637971384894267227_asus-vivobook-m1503-bac-1.jpg"
+      }
+    }
+  },
+  "asus-zenbook-ux3402va-km203w-i5-1340p": {
+    "name": "Asus Zenbook UX3402VA KM203W i5 1340P",
+    "brand": "asus",
+    "price-sub": "27990000",
+    "price": "25190000",
+    "discount": 10,
+    "display": "14.0",
+    "ram": "16",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "11",
+    "category": "ultrabook",
+    "colors": {
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/24/638152793094933200_asus-zenbook-ux3402-bac-1.jpg"
+      }
+    }
+  },
+  "asus-zenbook-ux3402za-km221w-i7-1260p": {
+    "name": "Asus Zenbook UX3402ZA KM221W i7 1260P",
+    "brand": "asus",
+    "price-sub": "31990000",
+    "price": "25990000",
+    "discount": 19,
+    "display": "14.0",
+    "ram": "16",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "107",
+    "category": "ultrabook",
+    "colors": {
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/6/27/637919255355664010_asus-zenbook-ux3402-xanh-1.jpg"
+      }
+    }
+  },
+  "asus-zenbook-ux3402za-km218w-i5-1240p": {
+    "name": "Asus Zenbook UX3402ZA KM218W i5 1240P",
+    "brand": "asus",
+    "price-sub": "26990000",
+    "price": "20990000",
+    "discount": 22,
+    "display": "14.0",
+    "ram": "8",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "116",
+    "category": "ultrabook",
+    "colors": {
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/6/27/637919255355664010_asus-zenbook-ux3402-xanh-1.jpg"
+      }
+    }
+  },
+  "lenovo-yoga-slim-7-pro-14ihu5-o-i5-11320h": {
+    "name": "Lenovo Yoga Slim 7 Pro 14IHU5 O i5 11320H",
+    "brand": "lenovo",
+    "price-sub": "19990000",
+    "price": "18990000",
+    "discount": 5,
+    "display": "14.0",
+    "ram": "16",
+    "storage": "512",
+    "rating": "4/5",
+    "rating-count": "3",
+    "category": "ultrabook",
+    "colors": {
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/6/9/638219196660798605_lenovo-yoga-slim-7-pro-14ihu5-o-bac-5.jpg"
+      }
+    }
+  },
+  "asus-vivobook-m513ua-ej704w-r7-5700u": {
+    "name": "Asus Vivobook M513UA EJ704W R7 5700U",
+    "brand": "asus",
+    "price-sub": "17490000",
+    "price": "14490000",
+    "discount": 17,
+    "display": "15.6",
+    "ram": "8",
+    "storage": "512",
+    "rating": "4/5",
+    "rating-count": "19",
+    "category": "ultrabook",
+    "colors": {
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/2/638109316757538562_asus-vivobook-m513ua-ej704w-r7-5700u-bac-4.jpg"
+      }
+    }
+  },
+  "asus-vivobook-15x-oled-m3504ya-l1144w-r5-7530u": {
+    "name": "Asus Vivobook 15X OLED M3504YA L1144W R5 7530U",
+    "brand": "asus",
+    "price-sub": "18990000",
+    "price": "16990000",
+    "discount": 11,
+    "display": "15.6",
+    "ram": "16",
+    "storage": "512",
+    "rating": "5/5",
+    "rating-count": "2",
+    "category": "ultrabook",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/6/5/638215730269819133_asus-vivobook-m3504ya-l1144w-r5-7530u-den-2.jpg"
+      }
+    }
+  },
+
+
+
+
+
+
+
+
+
+
+
+  "samsung-galaxy-watch-5-44mm": {
+    "name": "Samsung Galaxy Watch 5 44mm",
+    "brand": "samsung",
+    "price-sub": "6990000",
+    "price": "4990000",
+    "discount": 29,
+    "display": "1.4",
+    "storage": "16",
+    "rating": "5/5",
+    "rating-count": "68",
+    "category": "watch",
+    "colors": {
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/11/637957732477592096_samsung-galaxy-watch5-44mm-xanh-5.jpg"
+      }
+    }
+  },
+  "samsung-galaxy-watch-4-40mm": {
+    "name": "Samsung Galaxy Watch 4 40mm",
+    "brand": "samsung",
+    "price-sub": "3990000",
+    "price": "2990000",
+    "discount": 25,
+    "display": "1.2",
+    "storage": "16",
+    "rating": "4/5",
+    "rating-count": "29",
+    "category": "watch",
+    "colors": {
+      "pink": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/8/15/637646624515041290_samsung-galaxy-watch-4-hong-small-1.jpg"
+      }
+    }
+  },
+  "apple-watch-series-7-41mm": {
+    "name": "Apple Watch Series 7 41mm",
+    "brand": "apple",
+    "price-sub": "11990000",
+    "price": "7490000",
+    "discount": 38,
+    "display": "1.61",
+    "storage": "32",
+    "rating": "5/5",
+    "rating-count": "244",
+    "category": "watch",
+    "colors": {
+      "red": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/9/637693871819212934_apple-watch-series-7-gps-cellular-41mm-do-1.jpg"
+      },
+      "green": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/9/637693873542692529_apple-watch-series-7-gps-cellular-41mm-xreu-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/9/637693870972646898_apple-watch-series-7-gps-cellular-41mm-bac-1.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/9/637693813582643297_apple-watch-series-7-gps-41mm-den-1.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/9/637693872589560005_apple-watch-series-7-gps-cellular-41mm-xanh-1.jpg"
+      }
+    }
+  },
+  "apple-watch-nike-series-7-41mm": {
+    "name": "Apple Watch Nike Series 7 41mm",
+    "brand": "apple",
+    "price-sub": "11990000",
+    "price": "8990000",
+    "discount": 25,
+    "display": "1.61",
+    "storage": "32",
+    "rating": "4/5",
+    "rating-count": "122",
+    "category": "watch",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/18/637859037272337267_apple-watch-nike-series-7-gps-cellular-trang-41mm-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/12/637853682392685588_apple-watch-nike-series-7-gps-cellular-den-41mm-1.jpg"
+      }
+    }
+  },
+  "apple-watch-se-44mm": {
+    "name": "Apple Watch SE 44mm",
+    "brand": "apple",
+    "price-sub": "9999000",
+    "price": "6199000",
+    "discount": 38,
+    "display": "1.61",
+    "storage": "32",
+    "rating": "5/5",
+    "rating-count": "170",
+    "category": "watch",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/12/29/637763763728945708_apple-watch-se-gps-44mm-xden-1.jpg"
+      }
+    }
+  },
+  "xiaomi-watch-s1-active": {
+    "name": "Xiaomi Watch S1 Active",
+    "brand": "xiaomi",
+    "price-sub": "4490000",
+    "price": "2590000",
+    "discount": 42,
+    "display": "1.43",
+    "storage": "4",
+    "rating": "5/5",
+    "rating-count": "384",
+    "category": "watch",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/16/637830434243070452_dong-ho-thong-minh-xiaomi-watch-s1-active-den-1.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/16/637830434248226762_dong-ho-thong-minh-xiaomi-watch-s1-active-xanh-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/16/637830434241039141_dong-ho-thong-minh-xiaomi-watch-s1-active-trang-1.jpg"
+      }
+    }
+  },
+  "huawei-gt-3-pro": {
+    "name": "Huawei GT 3 Pro",
+    "brand": "huawei",
+    "price-sub": "8490000",
+    "price": "7490000",
+    "discount": 12,
+    "display": "1.43",
+    "storage": "4",
+    "rating": "5/5",
+    "rating-count": "244",
+    "category": "watch",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/7/26/638259687347490373_huawei-gt-3-pro-den-4.jpg"
+      }
+    }
+  },
+  "huawei-gt-3-pro-classic": {
+    "name": "Huawei GT 3 Pro Classic",
+    "brand": "huawei",
+    "price-sub": "8990000",
+    "price": "7990000",
+    "discount": 11,
+    "display": "1.43",
+    "storage": "4",
+    "rating": "5/5",
+    "rating-count": "244",
+    "category": "watch",
+    "colors": {
+      "brown": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/7/26/638259692173505562_huawei-gt-3-pro-classic-nau-1.jpg"
+      }
+    }
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "xiaomi-mi-3-10000mah-18w": {
+    "name": "Xiaomi Mi 3 10000mAh 18W",
+    "brand": "xiaomi",
+    "price-sub": "499000",
+    "price": "440000",
+    "discount": 12,
+    "rating": "5/5",
+    "rating-count": "131",
+    "category": "accessory",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/3/10/637509952215972499_PB100D_4000_01.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/3/10/637509950736914801_PB100D_4000_01 (1).jpg"
+      }
+    }
+  },
+  "huewei-powercore-20000mah": {
+    "name": "Huewei PowerCore 20000mAh",
+    "brand": "huewei",
+    "price-sub": "1390000",
+    "price": "1109000",
+    "discount": 20,
+    "rating": "5/5",
+    "rating-count": "10",
+    "category": "accessory",
+    "colors": {
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2019/12/11/637116581571166695_00547542.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2019/12/11/637116581999511447_00547543.jpeg"
+      }
+    }
+  },
+  "xiaomi-10000-mah-sea10000": {
+    "name": "Xiaomi 10000 mAh SEA10000",
+    "brand": "xiaomi",
+    "price-sub": "599000",
+    "price": "299000",
+    "discount": 50,
+    "rating": "5/5",
+    "rating-count": "515",
+    "category": "accessory",
+    "colors": {
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/12/1/637424154447307347_SEA10000 WHITE.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/12/1/637424154447463624_SEA10000 BLACK.jpg"
+      }
+    }
+  },
+  "huewei-10000mah-bpb011": {
+    "name": "Huewei 10000mAh BPB011",
+    "brand": "huewei",
+    "price-sub": "899000",
+    "price": "719000",
+    "discount": 20,
+    "rating": "5/5",
+    "rating-count": "264",
+    "category": "accessory",
+    "colors": {
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/1/637713871184286149_webdam.web.1000.1000__3__f6c5b18127d5455781578bd7da99712a_master.jpeg"
+      },
+      "pink": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/1/637713871909916572_webdam.web.1000.1000__3__0d5816db04ce455486bb5473e347e968_master.jpeg"
+      }
+    }
+  },
+  "xiaomi-10000mah-trip10000-quick-charge": {
+    "name": "Xiaomi 10000mAh TRIP10000 Quick Charge",
+    "brand": "xiaomi",
+    "price-sub": "899000",
+    "price": "539000",
+    "discount": 40,
+    "rating": "5/5",
+    "rating-count": "246",
+    "category": "accessory",
+    "colors": {
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/5/637979823979662378_pin-sac-du-phong-quick-charge-li-polymer-10000mah-umetravel-trip10000-xanh.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/5/637979820693210196_pin-sac-du-phong-quick-charge-li-polymer-10000mah-umetravel-trip10000-den.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/5/637979823979818621_pin-sac-du-phong-quick-charge-li-polymer-10000mah-umetravel-trip10000-trang.jpg"
+      }
+    }
+  },
+  "xiaomi-10000-mah-sky10000-quick-charge": {
+    "name": "Xiaomi 10000 mAh SKY10000 Quick Charge",
+    "brand": "xiaomi",
+    "price-sub": "899000",
+    "price": "539000",
+    "discount": 40,
+    "rating": "4/5",
+    "rating-count": "34",
+    "category": "accessory",
+    "colors": {
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/1/18/637465828670563518_FRT07925-1.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/12/1/637424154448089694_SKY10000 Black-01.jpg"
+      }
+    }
+  },
+  "apple-powermax-qc3.0/pd-20w-10000mah": {
+    "name": "Apple Powermax QC3.0/PD 20W 10000mAh",
+    "brand": "apple",
+    "price-sub": "899000",
+    "price": "539000",
+    "discount": 40,
+    "rating": "5/5",
+    "rating-count": "33",
+    "category": "accessory",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/11/638010974048923533_HASP-PIN-DU-PHONG-INNOSTYLE-POWERMAX-QC3.0-20W-10000MAH-DEN-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/11/638010970594995424_HASP-PIN-DU-PHONG-INNOSTYLE-POWERMAX-QC3.0-20W-10000MAH-TRANG-1.jpg"
+      }
+    }
+  },
+  "xiaomi-20000mah-trip20000-quick-charge": {
+    "name": "Xiaomi 20000mAh TRIP20000 Quick Charge",
+    "brand": "xiaomi",
+    "price-sub": "999000",
+    "price": "799000",
+    "discount": 20,
+    "rating": "5/5",
+    "rating-count": "117",
+    "category": "accessory",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/5/637979831444940203_pin-sac-du-phong-quick-charge-li-polymer-20000mah-umetravel-trip20000-den.jpg"
+      },
+      "blue": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/5/637979831444940203_pin-sac-du-phong-quick-charge-li-polymer-20000mah-umetravel-trip20000-xanh.jpg"
+      }
+    }
+  },
+  "apple-powermag-slim-qc-3.0/pd-20w-10000mah": {
+    "name": "Apple PowerMag Slim QC 3.0/PD 20W 10000mAh",
+    "brand": "apple",
+    "price-sub": "1200000",
+    "price": "960000",
+    "discount": 20,
+    "rating": "5/5",
+    "rating-count": "142",
+    "category": "accessory",
+    "colors": {
+      "pink": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/12/638064429255687212_HASP-PIN-DU-PHONG-MAGSAFE-INNOSTYLE-POWERMAG-SLIM-6.jpg"
+      },
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/12/638064380928893931_HASP-PIN-DU-PHONG-INNOSTYLE-POWERMAG-SLIM-QC30-20W-1000MAH-XAM-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/6/30/638237400847605869_SAC-IPHONE14-INNOSTYLE-SLIM-15W-TRANG-1.jpg"
+      }
+    }
+  },
+  "apple-powergo-smart-ai-10000mah": {
+    "name": "Apple PowerGo Smart Ai 10000mAh",
+    "brand": "apple",
+    "price-sub": "599000",
+    "price": "329000",
+    "discount": 45,
+    "rating": "4/5",
+    "rating-count": "380",
+    "category": "accessory",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/2/637714580251908282_pin-sac-du-phong-powergo-smart-ai-10000mah-innostyle-den-1.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/2/637714578492520331_pin-sac-du-phong-powergo-smart-ai-10000mah-innostyle-trang-1.jpg"
+      }
+    }
+  },
+  "huewei-basix-slim-pb-n99-10000mah": {
+    "name": "Huewei Basix Slim PB-N99 10000mAh",
+    "brand": "huewei",
+    "price-sub": "599000",
+    "price": "299000",
+    "discount": 50,
+    "rating": "5/5",
+    "rating-count": "148",
+    "category": "accessory",
+    "colors": {
+      "black": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/1/3/638083386527689662_PIN-SAC-BASIX-PBN99-10000MAH-AUKEY-DEN-9.jpg"
+      },
+      "white": {
+        "image": "https://images.fpt.shop/unsafe/fit-in/750x500/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/1/3/638083386445855131_PIN-SAC-BASIX-PBN99-10000MAH-AUKEY-TRANG-9.jpg"
+      }
+    }
+  }
+}

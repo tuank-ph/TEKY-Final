@@ -1,0 +1,82 @@
+/* Color palette */
+.bgx-red { background-color: #ff5436;}
+.bgx-black { background-color: #262626;}
+.bgx-blue { background-color: #00a1ff;}
+.bgx-green { background-color: #8bcf56;}
+.bgx-yellow { background-color: #ffca00;}
+.bgx-white { background-color: #e5eaff;}
+.bgx-pink { background-color: #ffb4f9;}
+.bgx-brown { background-color: #d77d34;}
+
+
+/* Product card image transition */
+.card > .card-img-top {
+    transform: scale(0.96);
+    transition: 700ms;
+    transition-timing-function: ease-out;
+}
+.card:hover > .card-img-top {
+    transform: scale(1) translateY(-3px);
+    transition: 300ms;
+    transition-timing-function: ease-in;
+}
+
+/* Fixed width for filter panel */
+#filters-column {
+    max-width: 380px !important;
+}
+
+/* Fixed width for product cards */
+#product-container > div {
+    max-width: 14rem;
+}
+
+
+/* Color swatches */
+.color-selection label {
+    width: 1.5em;
+    height: 1.5em;
+    border-radius: 50rem !important;
+    overflow: hidden;
+    padding: 0.1em;
+    transition: 200ms ease;
+}
+.color-selection input:checked + label {
+    padding: 0.16em;
+    /* text-transform: capitalize; */
+}
+.color-selection > div {
+    position: relative;
+    transform: translate(0px, 0px);
+}
+
+/* Minor fixes */
+#search { padding-block: 10px; }
+
+
+.product-categories .col {
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    /* outline: solid var(--bs-secondary-bg) 3px; */
+    transition: 200ms;
+    border-radius: 0;
+}
+
+/* .product-categories .col:hover {
+    outline: solid var(--bs-dark-border-subtle) 3px;
+    transition: 400ms;
+    transition-timing-function: ease-out;
+} */
+
+.product-categories img { position: absolute;}
+.product-categories .col > div {z-index: 3;}
+
+.product-categories .btn-check+.btn {
+    border-width: 3px;
+    opacity: .7;
+}
+.product-categories .btn-check:checked+.btn {
+    border-color: var(--bs-dark-border-subtle);
+    opacity: 1;
+}

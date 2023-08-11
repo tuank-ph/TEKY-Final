@@ -1,0 +1,573 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+
+    <!-- Stylesheets -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <link href="style.css" rel="stylesheet">
+    <link href="shop.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+    <!-- ICONS -->
+    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-straight/css/uicons-regular-straight.css'>
+    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
+    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-bold-straight/css/uicons-bold-straight.css'>
+    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-solid-straight/css/uicons-solid-straight.css'>
+    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-brands/css/uicons-brands.css'>
+    
+  </head>
+  <body>
+    <nav class="fixed-top d-flex p-3 justify-content-between ">
+      <div class="d-flex gap-2">
+        <div class="bg-black rounded-pill px-4 py-1 shadow">
+          <a class="navbar-brand fs-3 position-relative text-light" href="index.html" style="bottom: -2px;">
+            TUANK<span style="color: #e05959;">.Shop</span>
+          </a>
+        </div>
+        <div class="bg-body-tertiary rounded-pill px-4 py-1 shadow d-flex align-items-center gap-4 fw-semibold">
+          <a class="ms-3 m-1 nav-link fs-5 position-relative text-body-tertiary" href="index.html" style="bottom: -2px;">
+            Home
+          </a>
+          <a class="nav-link m-1 fs-5 position-relative" href="shop.html" style="bottom: -2px;">
+            Shop
+          </a>
+          <a class="me-3 m-1 nav-link fs-5 position-relative text-body-tertiary" href="shop.html" style="bottom: -2px;">
+            About us
+          </a>
+        </div>
+      </div>
+      <button type="button" class="gap-3 border-0 bg-body-tertiary rounded-pill px-4 py-1 d-flex align-items-center" data-bs-toggle="offcanvas" data-bs-target="#offcanvasCart">
+        <i class="ms-1 fi fi-rs-shopping-bag fis-4 position-relative" style="bottom: -1px;"></i>
+        <p class="me-1 m-0 fw-semibold position-relative" style="font-size: 1.2rem; bottom: -1px;">Cart</p>
+      </button>
+    </nav>
+    
+    <!-- Cart -->
+    <div class="offcanvas offcanvas-end bg-body-tertiary" tabindex="-1" id="offcanvasCart">
+      <div class="offcanvas-header pb-2">
+        <h5 class="offcanvas-title">Your Cart</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas"></button>
+      </div>
+      <hr class="my-0 mx-4">
+      
+      <div class="offcanvas-body d-flex flex-column justify-content-between p-3 gap-3">
+        <div class="bg-white border border-secondary-subtle rounded-3 ps-1 p-3 pt-3 flex-grow-1" >
+          <div class="ms-3 d-flex justify-content-between align-items-end">
+            <h3 class="header fw-bold m-0">Items</h3>
+            <h4 class="header m-0" id="cart-item-count" style="font-variation-settings: 'wght' 900;">0</h4>
+          </div>
+          <hr class="mx-3 my-3">
+          <div class="d-flex flex-column gap-4" id="cart-items">
+            <!-- CART ITEMS GOES HERE -->
+
+            <!-- <div class="d-flex gap-2">
+              <img class="align-self-center" src="https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/5/23/638204365093514450_samsung-galaxy-a14-5g-do-1.jpg" height="100">
+              <div class="d-flex flex-grow-1 flex-column justify-content-between">
+                <div class="d-flex justify-content-between">
+                  <div>
+                    <p class="m-0">Samsung Galaxy A14 5G</p>
+                    <span class="badge rounded-1 text-secondary-emphasis border-secondary border fw-medium text-capitalize">
+                      cooper
+                    </span>
+                  </div>
+                  <button type="button" class="btn btn-outline-danger pt-2 h-min" onclick="removeConfirm('samsung-galaxy-a14-5g-red')">
+                    <i class="fi fi-bs-cart-minus"></i>
+                  </button>
+                </div>
+                <div class="d-flex align-items-end">
+                  <div class="input-group h-min mb-1" style="min-width: max-content;">
+                    <button type="button" class="btn btn-primary pt-2" style="pointer-events: all; cursor: not-allowed" disabled="">
+                      <i class="fi fi-rs-minus-small"></i>
+                    </button>
+                    <input type="number" class="form-control text-center" value="1" style="max-width: 40px;">
+                    <button type="button" class="btn btn-primary pt-2" onclick="increaseCartProduct('samsung-galaxy-a14-5g-red')">
+                      <i class="fi fi-rs-plus-small"></i>
+                    </button>
+                  </div>
+                  <div class="text-end">
+                    <small class="text-decoration-line-through text-secondary fw-normal">5.190.000₫</small>
+                    <div class="d-flex gap-2 align-items-end">
+                      <p class="text-danger fw-bold m-0">4.490.000₫</p>
+                      <p class="text-secondary m-0">x2</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div> -->
+
+          </div>
+          
+
+          
+
+        </div>
+
+        <div class="d-flex flex-column gap-1 bg-white border border-secondary-subtle rounded-3 p-3">
+          <h3 class="header fw-bold m-1 mb-0">Summary</h3>
+          <hr class="my-3 mx-2">
+          <div class="d-flex justify-content-between">
+            <p>Subtotal:</p>
+            <p id="cart-subtotal"></p>
+          </div>
+          <div class="d-flex justify-content-between">
+            <p>Discount:</p>
+            <p id="cart-discount"></p>
+          </div>
+          <div class="d-flex justify-content-between">
+            <p>Shipping: <span class="text-body-tertiary">(to Vietnam)</span></p>
+            <p>Free</p>
+          </div>
+          <hr class="my-2 mx-1">
+          <div class="d-flex justify-content-between">
+            <p class="fw-bold">Total:</p>
+            <p class="fw-bold" id="cart-total"></p>
+          </div>
+          <button type="button" class="btn btn-primary mt-3 p-3 fw-semibold" data-bs-toggle="modal" data-bs-target="#formShipping">
+            Proceed to Checkout
+          </button>
+        </div>
+        
+
+      </div>
+    </div>
+
+    <div class="px-5 pb-5 bg-black d-flex justify-content-between">
+      <div class="px-5 ms-5 d-flex flex-column justify-content-center gap-5 flex-grow-1 ">
+        <div>
+          <p class="text-light fsx-1 fw-bold" style="line-height: 5.5rem; letter-spacing: 2px;">iPAD</p>
+          <p class="text-light fsx-1 fw-bold" style="line-height: 5.5rem; letter-spacing: 2px;">PRO</p>
+          <p class="text-light fsx-1 fw-bold" style="line-height: 5.5rem; letter-spacing: 2px;">2023</p>
+        </div>
+
+        <div class="d-flex flex-column gap-1">
+          <p class="fs-4 text-secondary text-decoration-line-through" style="line-height: 2rem;">54.990.000₫</p>
+          <p class="fs-4 text-light" style="line-height: 2rem;">50.990.000₫</p>
+          <button type="button" class="mt-2 btn btn-outline-primary btn-lg rounded-0 w-fit" onclick="increaseCartProduct('ipad-pro-12.9-2022-m2-5g-512gb-black'); Toast('addedToCart');">
+            Add to cart <i class="ms-1 fi fi-rs-angle-right position-relative" style="bottom: -1px;"></i>
+          </button>
+        </div>
+      </div>
+      <img src="shop-images/banner.jpg" class="img-fluid" width="1200">
+    </div>
+
+    <div class="position-relative bg-white rounded-4 shadow p-5 m-auto" style="top: -100px; width: 90%;">
+      <h1 class="fw-bold header fsx-5 mb-3 ms-4">Categories</h1>
+      <div class="mx-4">
+        <div class="row gap-3 product-categories py-2">
+          <input type="checkbox" class="btn-check" id="category-phone" checked autocomplete="off">
+          <label class="col bg-body-secondary btn" for="category-phone">
+            <img src="data/products-images/product-category-smartphone.webp" height="200" style="right: 0px; bottom: -60px;">
+            <br> <br> <br> <br> <br>
+            <div class="px-3 py-2 fs-5 text-start">Smartphone</div>
+          </label>
+          <input type="checkbox" class="btn-check" id="category-gaming-laptop" checked autocomplete="off">
+          <label class="col bg-body-secondary btn" for="category-gaming-laptop">
+            <img src="data/products-images/product-category-gaming-laptop.webp" height="250" style="right: -20px; bottom: -60px;">
+            <br> <br> <br> <br> <br>
+            <div class="px-3 py-2 fs-5 text-start">Gaming laptop</div>
+          </label>
+          <input type="checkbox" class="btn-check" id="category-ultrabook" checked autocomplete="off">
+          <label class="col bg-body-secondary btn" for="category-ultrabook">
+            <img src="data/products-images/product-category-ultrabook.webp" height="250" style="right: 0px; bottom: -60px;">
+            <br> <br> <br> <br> <br>
+            <div class="px-3 py-2 fs-5 text-start">Ultrabook</div>
+          </label>
+        </div>
+        <div class="row gap-3 product-categories py-2">
+          <input type="checkbox" class="btn-check" id="category-watch" checked autocomplete="off">
+          <label class="col bg-body-secondary btn" for="category-watch">
+            <img src="data/products-images/product-category-smartwatch.png" height="200" style="right: 0px; bottom: -20px;">
+            <br> <br> <br> <br> <br>
+            <div class="px-3 py-2 fs-5 text-start">Smartwatch</div>
+          </label>
+          <input type="checkbox" class="btn-check" id="category-tablet" checked autocomplete="off">
+          <label class="col bg-body-secondary btn" for="category-tablet">
+            <img src="data/products-images/product-category-tablet.png" height="250" style="right: -10px; bottom: -90px;">
+            <br> <br> <br> <br> <br>
+            <div class="px-3 py-2 fs-5 text-start">Tablet</div>
+          </label>
+          <input type="checkbox" class="btn-check" id="category-accessory" checked autocomplete="off">
+          <label class="col bg-body-secondary btn" for="category-accessory">
+            <img src="data/products-images/product-category-accessory.webp" height="280" style="right: -20px; bottom: -60px;">
+            <br> <br> <br> <br> <br>
+            <div class="px-3 py-2 fs-5 text-start">Accessories</div>
+          </label>
+        </div>
+      </div>
+    </div>
+
+    <div class="row m-3 position-relative" style="top: -70px;">
+      <div class="col" id="filters-column">
+        <div class="card p-2 pb-5">
+          <div class="card-body">
+            <h1 class="header fw-bold pb-3">Filters</h1>
+            <div class="d-flex flex-column gap-2 ps-2">
+              <div>
+                <h4 class="fw-medium">Search</h4>
+                <div class="input-group mb-3">
+                  <input type="text" class="form-control border-secondary border-end-0 px-3" id="search" placeholder="Search products...">
+                  <button class="btn btn-outline-primary" type="button">Clear</button>
+                </div>
+                
+              </div>
+              <hr>
+              <div>
+                <h4 class="fw-medium">Brands</h4>
+                <div class="d-flex gap-2 flex-wrap">
+                  <input type="checkbox" class="btn-check" id="filter-brands-apple" checked autocomplete="off">
+                  <label class="btn" for="filter-brands-apple">Apple</label>
+                  <input type="checkbox" class="btn-check" id="filter-brands-samsung" checked autocomplete="off">
+                  <label class="btn" for="filter-brands-samsung">Samsung</label>
+                  <input type="checkbox" class="btn-check" id="filter-brands-xiaomi" checked autocomplete="off">
+                  <label class="btn" for="filter-brands-xiaomi">Xiaomi</label>
+                  <input type="checkbox" class="btn-check" id="filter-brands-realme" checked autocomplete="off">
+                  <label class="btn" for="filter-brands-realme">Realme</label>
+                  <input type="checkbox" class="btn-check" id="filter-brands-oppo" checked autocomplete="off">
+                  <label class="btn" for="filter-brands-oppo">OPPO</label>
+                  <input type="checkbox" class="btn-check" id="filter-brands-vivo" checked autocomplete="off">
+                  <label class="btn" for="filter-brands-vivo">Vivo</label>
+                  <input type="checkbox" class="btn-check" id="filter-brands-asus" checked autocomplete="off">
+                  <label class="btn" for="filter-brands-asus">Asus</label>
+                  <input type="checkbox" class="btn-check" id="filter-brands-lenovo" checked autocomplete="off">
+                  <label class="btn" for="filter-brands-lenovo">Lenovo</label>
+                  <input type="checkbox" class="btn-check" id="filter-brands-huawei" checked autocomplete="off">
+                  <label class="btn" for="filter-brands-huawei">Huawei</label>
+                </div>
+              </div>
+              <hr>
+              <div>
+                <h4 class="fw-medium">Price</h4>
+                <div class="d-flex flex-column gap-2">
+                  <div class="input-group gap-1">
+                    <span class="input-group-text">From</span>
+                    <input type="text" class="form-control p-2 text-end" id="filter-price-min" placeholder="100000" value="100000">
+                    <span class="input-group-text p-2">₫</span>
+                  </div>
+                  <div class="input-group gap-1">
+                    <span class="input-group-text">to</span>
+                    <input type="text" class="form-control p-2 text-end" id="filter-price-max" placeholder="52999000" value="52999000">
+                    <span class="input-group-text p-2">₫</span>
+                  </div>
+                </div>
+              </div>
+              <hr>
+              <div>
+                <h4 class="fw-medium">Ram</h4>
+                <div class="d-flex gap-2 flex-wrap">
+                  <input type="checkbox" class="btn-check" id="filter-ram-2" checked autocomplete="off">
+                  <label class="btn" for="filter-ram-2">2 GB</label>
+                  <input type="checkbox" class="btn-check" id="filter-ram-3" checked autocomplete="off">
+                  <label class="btn" for="filter-ram-3">3 GB</label>
+                  <input type="checkbox" class="btn-check" id="filter-ram-4" checked autocomplete="off">
+                  <label class="btn" for="filter-ram-4">4 GB</label>
+                  <input type="checkbox" class="btn-check" id="filter-ram-6" checked autocomplete="off">
+                  <label class="btn" for="filter-ram-6">6 GB</label>
+                  <input type="checkbox" class="btn-check" id="filter-ram-8" checked autocomplete="off">
+                  <label class="btn" for="filter-ram-8">8 GB</label>
+                  <input type="checkbox" class="btn-check" id="filter-ram-12" checked autocomplete="off">
+                  <label class="btn" for="filter-ram-12">12 GB</label>
+                  <input type="checkbox" class="btn-check" id="filter-ram-16" checked autocomplete="off">
+                  <label class="btn" for="filter-ram-16">16 GB</label>
+                </div>
+              </div>
+              <hr>
+              <div>
+                <h4 class="fw-medium">Storage</h4>
+                <div class="d-flex gap-2 flex-wrap">
+                  <input type="checkbox" class="btn-check" id="filter-storage-8" checked autocomplete="off">
+                  <label class="btn" for="filter-storage-8">8 GB</label>
+                  <input type="checkbox" class="btn-check" id="filter-storage-16" checked autocomplete="off">
+                  <label class="btn" for="filter-storage-16">16 GB</label>
+                  <input type="checkbox" class="btn-check" id="filter-storage-32" checked autocomplete="off">
+                  <label class="btn" for="filter-storage-32">32 GB</label>
+                  <input type="checkbox" class="btn-check" id="filter-storage-64" checked autocomplete="off">
+                  <label class="btn" for="filter-storage-64">64 GB</label>
+                  <input type="checkbox" class="btn-check" id="filter-storage-128" checked autocomplete="off">
+                  <label class="btn" for="filter-storage-128">128 GB</label>
+                  <input type="checkbox" class="btn-check" id="filter-storage-256" checked autocomplete="off">
+                  <label class="btn" for="filter-storage-256">256 GB</label>
+                  <input type="checkbox" class="btn-check" id="filter-storage-512" checked autocomplete="off">
+                  <label class="btn" for="filter-storage-512">512 GB</label>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card p-2">
+          <div class="card-body">
+            <h1 class="header fw-bold pb-3">Products</h1>
+
+            <!-- <p class="bg-success-subtle p-3 fw-bold" style="max-width: fit-content;">
+              Completed: Đã có thể thêm sản phẩm vào giỏ hàng
+            </p> -->
+            <div class="d-flex flex-wrap mb-3 gap-1">
+              <h4 class="mb-0 me-3 align-self-center fw-semibold">Sort by:</h4>
+              <input type="radio" class="btn-check" name="sort" id="sort-default" autocomplete="off" checked>
+              <label class="btn btn-outline-primary" for="sort-default">Newest Arrivals</label>
+              <input type="radio" class="btn-check" name="sort" id="sort-price-low" autocomplete="off">
+              <label class="btn btn-outline-primary" for="sort-price-low">Price: Low to High</label>
+              <input type="radio" class="btn-check" name="sort" id="sort-price-high" autocomplete="off">
+              <label class="btn btn-outline-primary" for="sort-price-high">Price: High to Low</label>
+              <input type="radio" class="btn-check" name="sort" id="sort-discount" autocomplete="off">
+              <label class="btn btn-outline-primary" for="sort-discount">Most Discounted</label>
+            </div>
+
+            <div class="d-flex gap-2 flex-wrap" id="product-container" >
+              <div class="card pt-3 flex-shrink-1" style="max-width: 14rem;">
+                <img src="data/products-images/iphone-14-pro-max.jpg" class="card-img-top p-3">
+                <div class="card-body d-flex flex-column">
+                <p class="card-title mb-0">Samsung Galaxy S23 5G Ultrafaos</p>
+                <div class="d-flex gap-1 mb-2">
+                  <div class="color-selection">
+                    <input type="radio" class="btn-check" name='color' id="btn-check-4" checked autocomplete="off">
+                    <label class="btn color-selection rounded-pill d-flex" for="btn-check-4">
+                      <div class="flex-grow-1 rounded-pill bg-danger"></div>
+                    </label>
+                  </div>
+                  <div class="color-selection">
+                    <input type="radio" class="btn-check" name='color' id="btn-check-5" autocomplete="off">
+                    <label class="btn color-selection rounded-pill d-flex" for="btn-check-5">
+                      <div class="flex-grow-1 rounded-pill bg-info"></div>
+                    </label>
+                  </div>
+                  <div class="color-selection">
+                    <input type="radio" class="btn-check" name='color' id="btn-check-6" autocomplete="off">
+                    <label class="btn color-selection rounded-pill d-flex" for="btn-check-6">
+                      <div class="flex-grow-1 rounded-pill bg-warning"></div>
+                    </label>
+                  </div>
+                </div>
+                <div class="flex-wrap mb-3 d-inline-flex gap-1"><span class="badge rounded-1 text-secondary-emphasis text-bg-secondary bg-opacity-25 fw-medium"><i class="fi fi-brands-apple"></i> Apple</span><span class="badge rounded-1 text-secondary-emphasis text-bg-secondary bg-opacity-25 fw-medium"><i class="bi bi-memory"></i> 8 GB</span><span class="badge rounded-1 text-secondary-emphasis text-bg-secondary bg-opacity-25 fw-medium"><i class="bi bi-hdd-fill"></i> 512 GB</span><span class="badge rounded-1 text-secondary-emphasis text-bg-secondary bg-opacity-25 fw-medium"><i class="fi fi-rr-arrow-up-right-and-arrow-down-left-from-center"></i><span class="ps-1">6.7"</span></span></div>
+                  <div class="d-flex flex-column flex-grow-1 justify-content-end">
+                    <small class="text-decoration-line-through text-secondary fw-normal">24.990.000₫</small>
+                    <div class="d-flex mb-1 gap-2">
+                      <p class="text-danger fw-bold">17.490.000₫</p>
+                      <span class="badge bg-danger-subtle text-danger h-min">-7%</span>
+                    </div>
+                    <div class="d-flex gap-1">
+                      <button type="button" class="btn btn-outline-primary flex-grow-1">Buy now</button>
+                      <button type="button" class="btn btn-primary float-end" onclick="addToCart('iphone-14-pro-max'); Toast('addedToCart')">
+                        <i class="bi bi-cart-plus-fill"></i>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+
+
+            </div>
+            <!-- <div class="card pt-3" style="max-width: 14rem;">
+              <img src="shop-images/iphone-14-pro-max.jpg" class="card-img-top p-3">
+              <div class="card-body d-flex flex-column">
+                <p class="card-title">IPhone 14 Pro Max</p>
+                <div class="flex-wrap mb-2 d-inline-flex gap-1">
+                  <span class="badge rounded-1 text-secondary-emphasis text-bg-secondary bg-opacity-25 fw-medium">
+                    <i class="bi bi-apple"></i> Apple
+                  </span>
+                  <span class="badge rounded-1 text-secondary-emphasis text-bg-secondary bg-opacity-25 fw-medium">
+                    <i class="bi bi-memory"></i> 8 GB
+                  </span>
+                  <span class="badge rounded-1 text-secondary-emphasis text-bg-secondary bg-opacity-25 fw-medium">
+                    <i class="bi bi-hdd-fill"></i> 256 GB
+                  </span>
+                </div>
+                <div class="d-flex flex-column flex-grow-1 justify-content-end">
+                  <div class="mb-2">
+                    <p class="text-danger fw-bold d-inline">$1399</p>
+                    <small class="text-decoration-line-through text-secondary fw-normal">$1599</small>
+                  </div>
+                  <div class="d-flex gap-1">
+                    <button type="button" class="btn btn-outline-primary flex-grow-1">Buy now</button>
+                    <button type="button" class="btn btn-primary float-end">
+                      <i class="bi bi-cart-plus-fill"></i>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>   -->
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+
+    
+
+    <br> <br>
+    <!-- <br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br> -->
+
+    <footer class="bg-dark py-5" data-bs-theme="dark">
+      <div class="container py-5">
+        <div class="row gap-5">
+          <div class="col">
+            <h1 class="text-light header fsx-5 py-4">Sign up</h1>
+            <p class="text-light header text-body-secondary fs-3">Stay in the loop and get exclusive content by subscribing to our newsletter today</p>
+            <div class="input-group py-2">
+              <input type="text" class="form-control rounded-0 py-3 px-4" placeholder="Email address">
+              <button class="btn btn-primary px-3" type="button" onclick="Toast('emailSignup')">Sign up</button>
+            </div>
+          </div>
+
+          <div class="col">
+            <h1 class="text-light header fsx-5 py-4">Find us</h1>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d501726.5407051582!2d106.36557848471604!3d10.75461814779714!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529292e8d3dd1%3A0xf15f5aad773c112b!2sHo%20Chi%20Minh%20City%2C%20Vietnam!5e0!3m2!1sen!2s!4v1690740719741!5m2!1sen!2s" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
+
+          <div class="col">
+            <h1 class="text-light header fsx-5 py-4">About me</h1>
+            <p class="text-light text-body-secondary fw-light">Hey there! I'm Phạm Tuấn Khanh, a 15-year-old high school student with a big passion for web development. I love the creative process of building websites and seeing my ideas come to life on the screen. It's like painting with code! I'm constantly learning and growing in this field, always on the lookout for new techniques and trends. Web development is my playground, and I can't wait to share my creations with you!</p>
+          </div>
+          
+        </div>
+      </div>
+      <!-- <br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br> -->
+    </footer>
+
+    
+    <!-- Hộp thoại lấy thông tin giao hàng -->
+    <div class="modal fade" id="formShipping" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1">
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h1 class="modal-title fs-5">Shipping infomations</h1>
+            <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+          </div>
+          <form>
+            <div class="modal-body">
+              <div class="row g-3">
+                <div class="col-md-6">
+                  <label for="formFirstName" class="form-label">First name</label>
+                  <input type="text" class="form-control" id="formFirstName" placeholder="Van A" required>
+                </div>
+                <div class="col-md-6">
+                  <label for="formLastName" class="form-label">Last name</label>
+                  <input type="text" class="form-control" id="formLastName" placeholder="Nguyen" required>
+                </div>
+                <div class="col-12">
+                  <label for="inputAddress" class="form-label">Address</label>
+                  <input type="text" class="form-control" id="inputAddress" placeholder="888, Binh Tan, Ho Chi Minh City" required>
+                </div>
+                <div class="col-12">
+                  <label for="formgroupMobile" class="form-label">Mobile number</label>
+                  <div class="input-group d-flex" id="formgroupMobile">
+                    <span class="input-group-text" placeholder="Username">+84</span>
+                    <input type="number" class="form-control" placeholder="Phone number" required>
+                  </div>
+                </div>
+                <div class="col-12">
+                  <label for="formEmail" class="form-label">Email address</label>
+                  <input type="email" class="form-control" id="formEmail" placeholder="example@gmail.com" required>
+                </div>
+                <div class="col-12">
+                  <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="formTerms" required>
+                    <label class="form-check-label" for="formTerms">
+                      I agreed to <a href="#">Terms</a> and <a href="#">Conditions</a>
+                    </label>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+              <button type="submit" class="btn btn-primary">Proceed</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <!-- Hộp thoại cảm ơn và xác nhận thanh toán -->
+    <div class="modal fade" id="purchased" tabindex="-1">
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-body d-flex flex-column align-items-center p-4 gap-4">
+            <button type="button" class="btn-close align-self-end" data-bs-dismiss="modal"></button>
+            <i class="fi fi-ss-check-circle text-success fis-large pt-2"></i>
+            <p class="text-body px-4">Congratulations on your purchase! Thank you for choosing us.</p>
+            <p class="text-body-secondary pb-4 px-4">We will contact you via email</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    <!-- Toast messages -->
+    <div class="toast-container position-fixed bottom-0 end-0 p-3 ">
+
+      <!-- Email sign up -->
+
+      <div class="toast align-items-center text-bg-success" role="alert" id="emailSignup">
+        <div class="d-flex px-2">
+          <div class="toast-body d-flex align-items-center">
+            <i class="fi fi-ss-check-circle fis-5 me-3 pb-1 " style="line-height: 0;"></i>
+            Subscribe successful! You will be receiving emails from us.
+          </div>
+          <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast"></button>
+        </div>
+      </div>
+
+      <!-- Thông báo thêm sản phẩm vào giỏ hàng -->
+      <div class="toast align-items-center" id="addedToCart" role="alert">
+        <div class="d-flex px-2">
+          <div class="toast-body d-flex flex-column ">
+            <div class="d-flex align-items-center">
+              <i class="fi fi-ss-check-circle fis-5 me-3 pb-1 text-success" style="line-height: 0;"></i>
+              Success! Your selection has been added to your shopping cart.
+            </div>
+            <div class="mt-2 pt-2 border-top align-self-end">
+              <button type="button" class="btn btn-primary btn-sm" data-bs-dismiss="toast" onclick="bootstrap.Offcanvas.getOrCreateInstance($('#offcanvasCart')).show()">Go to cart</button>
+              <button type="button" class="btn btn-secondary btn-sm" data-bs-dismiss="toast">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Hộp thoại xác nhận xóa sản phẩm khỏi giỏ hàng -->
+      <div class="modal fade" id="removeConfirmation" tabindex="-1">
+        <div class="modal-dialog modal-dialog-centered">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h1 class="modal-title fs-5">Remove item</h1>
+              <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+              Are you sure you want to remove this item?
+            </div>
+            <div class="modal-footer">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Thông báo xóa sản phẩm trong giỏ hàng -->
+      <div class="toast align-items-center text-bg-success" role="alert" id="removedFromCart">
+        <div class="d-flex px-2">
+          <div class="toast-body d-flex align-items-center">
+            <i class="fi fi-ss-check-circle fis-5 me-3 pb-1 " style="line-height: 0;"></i>
+            An item has been removed from your shopping cart.
+          </div>
+          <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast"></button>
+        </div>
+      </div>
+
+    </div>
+
+
+    
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="script.js"></script>
+    <script src="shop.js"></script>
+  </body>
+</html>

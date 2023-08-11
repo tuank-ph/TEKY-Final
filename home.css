@@ -1,0 +1,40 @@
+.carousel-item > img {
+    object-fit: cover;
+    filter: brightness(0.7);
+    height: 40vw;
+}
+.carousel-content {
+    position: relative;
+}
+.carousel-content > *:not(:first-child) {
+    position: absolute;
+    z-index: 2;
+}
+
+.carousel-content a {
+    top: 60%;
+    left: 10%;
+}
+
+.carousel-content h1 {
+    top: 20%;
+    left: 10%;
+}
+
+
+.product-categories .col {
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    outline: solid var(--bs-secondary-bg) 3px;
+    transition: 200ms;
+}
+
+.product-categories .col:hover {
+    outline: solid var(--bs-dark-border-subtle) 3px;
+    transition: 400ms;
+    transition-timing-function: ease-out;
+}
+
+.product-categories img { position: absolute;}
+.product-categories .col > div {z-index: 3;}
